@@ -63,6 +63,13 @@ ul{
     text-align: center;
     width: 100%;
 }
+.commandline{
+    text-align: left;
+    width: 10%;
+    height: 10%;
+   
+}
+
 
 table {
 table-layout: fixed;
@@ -75,4 +82,21 @@ th {
 }
 td {
     width:100%;
+}
+
+div{
+    display:inline-block;
+}
+.command {
+    background: white; 
+    display: inline;
+}
+h1 {
+    background: black;
+    color: white;
+    padding: 30px;
+    display: inline;
+}
+.commandline{
+    display:inline-block;
 }
