@@ -9,8 +9,7 @@ header {
     margin: 0%;
     display: inline;
 }
-
-h1{
+.blog{
     background: black;
     color: white;
     padding: 10px;
@@ -38,4 +37,42 @@ img {
     text-align: center;
     margin 10%;
     padding: 20px;
+}
+
+p{
+    color:white;
+    text-align: center;
+}
+
+ul{
+    color:white;
+    text-align: center;
+    display:inline-block;
+    list-style-type: none;
+}
+.reflection{
+    background:white;
+}
+.Shereef{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.image{
+    text-align: center;
+    width: 100%;
+}
+
+table {
+table-layout: fixed;
+background: gray;
+display: inline-block;
+}
+th {
+    width:20%;
+    color:white;
+}
+td {
+    width:100%;
 }
