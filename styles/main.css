@@ -1,3 +1,7 @@
+body {
+    background:black;
+}
+
 header {
     background: black;
     color: white;
@@ -11,8 +15,7 @@ h1{
     color: white;
     padding: 10px;
     margin: 0%;
-    display: inline;
-    
+    display: inline;   
 }
 
 ul {
@@ -21,7 +24,6 @@ ul {
 
 #special {
     background: #F65F0D;
-    color: white;
     display: inline-block;
     list-style-type: none;
     padding: 10px 30px;
@@ -30,4 +32,10 @@ ul {
 
 #special a {
     color:white;
+}
+
+img {
+    text-align: center;
+    margin 10%;
+    padding: 20px;
 }
