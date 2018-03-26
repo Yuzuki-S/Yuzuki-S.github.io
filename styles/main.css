@@ -35,7 +35,7 @@ ul {
 
 img {
     text-align: center;
-    margin 10%;
+    margin: 10%;
     padding: 20px;
 }
 
@@ -53,12 +53,7 @@ ul{
 .reflection{
     background:white;
 }
-.Shereef{
-    background: black;
-    color: white;
-    text-align: center;
-    padding: 30px;
-}
+
 .image{
     text-align: center;
     width: 100%;
@@ -72,20 +67,25 @@ ul{
 
 
 table {
-table-layout: fixed;
-background: gray;
-display: inline-block;
+    table-layout: auto;
+    background: rgb(182, 49, 49);
+    display: inline-block;
+    border: 1px solid white;
 }
+
 th {
     width:20%;
     color:white;
+    border: 1px solid white;
 }
 td {
     width:100%;
+    border: 1px solid white;
 }
 
 div{
-    display:inline-block;
+    width: 100%;
+    text-align: center;
 }
 .command {
     background: white; 
@@ -95,8 +95,8 @@ h1 {
     background: black;
     color: white;
     padding: 30px;
-    display: inline;
+    text-align: center;
 }
-.commandline{
-    display:inline-block;
-}
+
+
+
