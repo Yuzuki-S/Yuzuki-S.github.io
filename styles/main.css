@@ -1,5 +1,5 @@
 body {
-    background:black;
+    background-color:black;
 }
 
 header {
@@ -24,6 +24,7 @@ ul {
 #special {
     background: #F65F0D;
     display: inline-block;
+    font-family: 'Libre Baskerville', sans-serif;
     list-style-type: none;
     padding: 10px 30px;
     margin: 0%;
@@ -35,8 +36,9 @@ ul {
 
 img {
     text-align: center;
-    margin: 10%;
-    padding: 20px;
+    width: 100%;
+    margin: 0%;
+    padding: 0px;
 }
 
 p{
@@ -51,13 +53,14 @@ ul{
     list-style-type: none;
 }
 .reflection{
-    background:white;
+    background-image: url("../Images/background-white.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
 }
 
-.image{
-    text-align: center;
-    width: 100%;
-}
 .commandline{
     text-align: left;
     width: 10%;
