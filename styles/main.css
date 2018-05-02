@@ -46,10 +46,16 @@ img {
     padding: 0px;
 }
 
-p{
-    color:white;
+.title{
+    color:black;
+    text-decoration: underline dotted black;
+    font-size: 30px;
+    font-weight: bold;
 }
-
+p {
+    font-size: 20px;
+    margin-bottom: 3%;
+}
 ul{
     color:white;
     text-align: center;
@@ -108,4 +114,22 @@ h1 {
     margin-top: 0%;
 }
 
+.questions {
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    padding: 1% 0%;
+}
 
+.questions1 {
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    background: rgb(22, 22, 22);
+    color: white;
+    padding: 3% 0% 0.2% 0%;
+}
+
+h3 {
+    background:  rgb(22, 22, 22);
+    color: white;
+    padding: 2% 0%;
+}
