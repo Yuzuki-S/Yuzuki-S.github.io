@@ -130,10 +130,12 @@ h1 {
 }
 
 h3 {
-    background:  rgb(22, 22, 22);
-    color: white;
+    
     padding: 2% 0%;
 }
 .boxmodel {
     width: 20%;
+}
+.change {
+    color: black;
 }
