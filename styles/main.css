@@ -1,0 +1,12 @@
+.topbar {
+    background-color: rgb(32, 32, 32);
+}
+h3{
+    text-align: center;
+    padding: 1%;
+    margin: 0%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Lobster', cursive;
+    color:rgb(243, 76, 104)
+}
