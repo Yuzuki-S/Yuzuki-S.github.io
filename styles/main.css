@@ -9,7 +9,7 @@ body {
     border-top-right-radius: 8px;
 }
 .topbar {
-    background-color: rgb(231, 181, 181);
+    background-color: rgb(231, 144, 144);
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
 }
@@ -32,6 +32,8 @@ h3{
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
     filter: grayscale(40%);
+    margin-left: auto;
+    margin-right: auto;
 }
 .buttonInImage .btn {
     position: absolute;
@@ -66,4 +68,10 @@ a {
 
 .row1 {
     margin: 10% 5%;
+}
+th {
+    font-size: 150%;
+}
+td {
+    font-size: 100%;
 }
