@@ -75,3 +75,8 @@ th {
 td {
     font-size: 100%;
 }
+.wireframe {
+    max-width: 100%;
+    transform: rotate(90deg);
+    margin: 15%;
+}
